@@ -14,13 +14,13 @@
   </tr>
   <tr>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/TimeWarp"><b>TimeWarp</b></a>
+      <a href="https://github.com/Charmve/TimeWarp"><b>-> TimeWarp</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/JSFlow"><b>JSFlow</b></a>
+      <a href="https://github.com/Charmve/JSFlow"><b>-> JSFlow</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/OpenCS-Courses"><b>OpenCS-Courses</b></a>
+      <a href="https://github.com/Charmve/OpenCS-Courses"><b>-> OpenCS-Courses</b></a>
     </td>
   </tr>
   <tr>
@@ -50,13 +50,13 @@
   </tr>
   <tr>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/BLE-Security-Attack-Defence"<b>>BlueBoy</b></a>
+      <a href="https://github.com/Charmve/BLE-Security-Attack-Defence"<b>-> BlueBoy</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/UFund"><b>UFund</b></a>
+      <a href="https://github.com/Charmve/UFund"><b>-> UFund</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/Mirror-Glass-Detection"><b>Mirror & Glass Detection</b></a>
+      <a href="https://github.com/Charmve/Mirror-Glass-Detection"><b>-> Mirror & Glass Detection</b></a>
     </td>
   </tr>
   <tr>
