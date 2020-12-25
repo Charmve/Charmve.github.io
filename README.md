@@ -12,19 +12,17 @@
       <a href="https://github.com/Charmve/OpenCS-Courses"><img src="https://github.com/Charmve/OpenCS-Courses/raw/main/extras/Logo.png" width="330"></a>
     </td>
   </tr>
-  <thead>
   <tr>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/TimeWarp">TimeWarp</a>
+      <a href="https://github.com/Charmve/TimeWarp"><b>TimeWarp</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/JSFlow">JSFlow</a>
+      <a href="https://github.com/Charmve/JSFlow"><b>JSFlow</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/OpenCS-Courses">OpenCS-Courses</a>
+      <a href="https://github.com/Charmve/OpenCS-Courses"><b>OpenCS-Courses</b></a>
     </td>
   </tr>
-  </thead>
   <tr>
     <td>
       TimeWarp - 在线视频背景替换<br>
@@ -50,19 +48,17 @@
       <a href="https://github.com/Charmve/Mirror-Glass-Detection"><img src="https://github.com/Charmve/Mirror-Glass-Detection/raw/master/logo-GlassDetec.png" width="330"></a>
     </td>
   </tr>
-  <thead>
   <tr>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/BLE-Security-Attack-Defence">BlueBoy</a>
+      <a href="https://github.com/Charmve/BLE-Security-Attack-Defence"<b>>BlueBoy</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/UFund">UFund</a>
+      <a href="https://github.com/Charmve/UFund"><b>UFund</b></a>
     </td>
     <td style="text-align: center">
-      <a href="https://github.com/Charmve/Mirror-Glass-Detection">Mirror & Glass Detection</a>
+      <a href="https://github.com/Charmve/Mirror-Glass-Detection"><b>Mirror & Glass Detection</b></a>
     </td>
   </tr>
-  </thead>
   <tr>
     <td>
       Bluetooth-LE Security: Method, Tools and Stack
