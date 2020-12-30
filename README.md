@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Charmve/TimeWarp"><img src="https://github.com/Charmve/TimeWarp/raw/main/img/photo/logo_H.png" width="330"></a>
+      <a href="https://github.com/Charmve/TimeWarp"><img src="https://github.com/Charmve/TimeWarp/raw/main/img/photo/logo_V.png" width="330"></a>
     </td>
     <td>
       <a href="https://github.com/Charmve/JSFlow"><img src="https://github.com/Charmve/jsFlow/raw/main/img/JSFlow.jpg" width="330"></a>
