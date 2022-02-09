@@ -3,9 +3,9 @@ const qbox = bd.querySelector('#QRBox')
 const mbox = bd.querySelector('#MainBox')
 const dbox = bd.querySelector('#donateBox')
 
-const qqr = 'sponsor_files/imgs/sponsor-wechat.jpg'
-const aqr = 'sponsor_files/imgs/sponsor-alipay.jpg'
-const wqr = 'sponsor_files/imgs/sponsor-wechat.jpg'
+const qqr = 'https://charmve.github.io/sponsor_files/imgs/sponsor-wechat.jpg'
+const aqr = 'https://charmve.github.io/sponsor_files/imgs/sponsor-alipay.jpg'
+const wqr = 'https://charmve.github.io/sponsor_files/imgs/sponsor-wechat.jpg'
 
 const showQR = (QR) => {
 	if (QR) mbox.style.backgroundImage = `url(${ QR })`
